@@ -56,3 +56,77 @@ li{
     margin:0 auto;
     width:60%;
 }
+
+
+
+.container4{
+    margin:0 auto;
+    width:60%;
+}
+.container5{
+    display: flex;
+    gap:20px;
+    width:60%;
+    margin:0 auto;
+    align-items: center;
+    padding-top:60px;
+}
+.textsection4{
+    width:100%;
+}
+.imgsction{
+    width:100%;
+}
+.textareaone{
+    padding:20px;
+}
+.boxone{
+    background-color: #FF900E;
+    display: inline-block;
+    padding:0 20px;
+    margin-top:-50px;
+    color:white;
+}
+.factsection{
+    width:60%;
+    margin:0 auto;
+    padding:30px;
+}
+.imgboxsection{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap:70px;
+    padding:20px 30px;
+}
+.imagboxone{
+    text-align: center;
+    border:1px solid #FF900E;
+    padding-top:10px;
+}
+.textsponsor{
+    text-align: center;
+}
+.iconsponsor{
+    padding:40px;
+
+}
+.iconsponsor>img{
+    width:100px;
+}
+.iconsponsor{
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns:auto auto auto auto auto;
+}
+
+    .sponsorsection{
+        width:60%;
+        margin:0 auto;
+    }
+    footer{
+        background-color: #ff8f0e3b;
+        padding: 10px;
+        text-align: center;
+        margin-top:30px;
+
+    }
